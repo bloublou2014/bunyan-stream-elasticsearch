@@ -31,14 +31,14 @@
   },
   "homepage": "https://github.com/bloublou2014/bunyan-stream-elasticsearch",
   "dependencies": {
-    "elasticsearch": "^15.0.0",
-    "lodash": "^4.17.21",
+    "elasticsearch": "^16.7.3",
+    "lodash": "^4.17.23",
     "moment": "^2.19.3",
-    "snyk": "^1.518.0"
+    "snyk": "^1.996.0"
   },
   "devDependencies": {
     "bluebird": "^3.5.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "mocha": "^4.0.1",
     "require-new": "^1.1.1",
     "should": "^13.1.2"
